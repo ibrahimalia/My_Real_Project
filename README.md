@@ -8,4 +8,4 @@ A website for renting, displaying and searching cars is also designed using vue 
 3]: Third Url:<br>
 A website for publishing educational articles designed using react js (forntend) and laravel (backend) contain admin panel(built using
  react js) but link is secure please change https to http to work fine by disable https<br>
-[please click here to visit my third project (user)](http://alwan.srt.online/)<br>
+[please click here to visit my third project (user)](https://kgs.srt.online/)<br>
